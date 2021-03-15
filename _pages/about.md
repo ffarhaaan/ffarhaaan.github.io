@@ -35,8 +35,8 @@ Education
 Featured
 -----
 <center>
-<img src="/images/homepg/ec.PNG" alt="Electrocache"> <img src="/images/homepg/hai.PNG" alt="HAI">
-<img src="/images/homepg/eeg.PNG" alt="EEG"
+<img src="/images/ec.png" alt="Electrocache"> <img src="/images/hai.png" alt="HAI">
+<img src="/images/2.png" alt="EEG"
 </center>
   * **January 2021:** Successfully presented our paper titled "A Performance Evaluation of Machine Learning Models on Human Activity Identification(HAI)" on the 12th International Conference on Soft Computing and Pattern Recognition. It was an amazing experience.[Slides](https://drive.google.com/file/d/1r0mWwCN4szBYXUOOIbRPoyX1uUaBbBT6/view)
   * **January 2021:** Launched [Electrocache](https://sites.google.com/view/electrocache/home?authuser=0)-A database resource for students of Electrical & Electronic Engineering department.
