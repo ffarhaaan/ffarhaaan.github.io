@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kazi Ahmed Asif Fuad"
+title: "Faisal Farhan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
