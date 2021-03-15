@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 I have recently completed a Bachelor's degree in Electrical & Electronic Engineering with honors distinction. My research interest includes Signal Processing, Image Processing, Pattern Recognition, Machine Learning & Artificial Intelligence. I have keen interest in coding, front-end web design and data analysis. Having worked on several academic and independent research projects, I developed a keen interest in empirical research. My self-motivation and thirst towards learning and innovation helped me to achieve a successful academic life.\
-
 Apart from my field of studies, my interest lies in Graphic designing, travelling and playing video games. My volunteering affiliations include Bangladesh Developement Project, AUST EEE Society and IEEE AUST Student Branch.\
-
 Currently I'm looking for an opportunity in a reputed organization where i can excel my academic skills as well as achieve a progressive career.
 
 
@@ -19,7 +17,7 @@ Education
 ------
 
 > **BSc. in Electrical & Electronic Engineering**          
-  * _Ahsanullah University of Science & Technology_\
+   _Ahsanullah University of Science & Technology_\
     **CGPA:** 3.936/4.00\
     Spring 2016 - Fall 2019.
   
