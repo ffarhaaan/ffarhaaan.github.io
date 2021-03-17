@@ -1,0 +1,118 @@
+---
+layout: archive
+title: "About"
+permalink: /info/
+author_profile: true
+---
+
+<center>
+<a href="https://www.aiub.edu">
+  <img src="/images/icons/AIUB_whole_logo.png" alt="AIUB">
+</a>
+<a href="http://ipcv.eu">
+  <img src="/images/icons/ipcv_logo.png" alt="IPCV">
+</a>
+<a href="http://ppke.hu/en/">
+  <img src="/images/icons/PPCU.png" alt="PPCU">
+</a>
+<a href="http://www.uam.es/">
+  <img src="/images/icons/uam.png" alt="UAM">
+</a>
+<a href="https://www.u-bordeaux.com/">
+  <img src="/images/icons/ub.png" alt="UB">
+</a>
+</center>
+
+#Education
+
+----
+ 
+### Bachelors of Science in Electrical & Electronics Engineering.
+----
+   Total Credits: 165\
+  _Ahsanullah University of Science & Technology_\
+    **CGPA:** 3.936/4.00\
+    Spring 2016 - Fall 2019.
+> **Dean's List of Honor Award at Ahsanullah University of Science & Technology (Academic Year-2020) .**
+----
+ 
+### Higher Secondary School Certificate (HSC) Examination
+----
+
+  _Cantonment English School & College, Chittagong, Bangladesh._\
+    **GPA:** 5.00/5.00\
+	Group: Science\
+    May 2013 - April 2020.
+
+----
+ 
+###Secondary School Certificate (SSC) Examination
+----
+
+  _Cantonment English School & College, Chittagong, Bangladesh._\
+    **GPA:** 5.00/5.00\
+	Group: Science\
+    January 2011 - February 2014.	
+
+# ---------------------------------------------------------------------------------------------------------
+
+#Technical Skills
+
+----
+<center>
+<img src="/images/icons/cv.jpg" alt="Computer Vision">
+<img src="/images/icons/DL.jpg" alt="Deep Learning"> <img src="/images/icons/tf.png" alt="TensorFlow"> <img src="/images/icons/keras.jpg" alt="Keras"> 
+<img src="/images/icons/pytorch.jpg" alt="PyTorch"> <img src="/images/icons/C++.png" alt="C++"> 
+<img src="/images/icons/python.png" alt="Python"> <img src="/images/icons/Cs.png" alt="C#">
+<img src="/images/icons/unity3d.jpg" alt="Unity 3D"> <img src="/images/icons/vs.png" alt="Visual Studio">
+<img src="/images/icons/unity3d.jpg" alt="Unity 3D"> <img src="/images/icons/vs.png" alt="Visual Studio">
+</center>
+| **Programming Languages:** |C++, Python, Verilog, SQL, Javascript, Matlab.|
+|:-------------|:------------------|
+| **Markup & Stylesheet:** |HTML, CSS, Latex.|
+|:-------------|:------------------|
+| **Simulation Tools:** |MATLAB, PSpice, Quartus, Cadence, Proteus.|
+|:-------------|:------------------|
+| **Design Tools:** |AUTOCAD, Adobe Illustrator, Adobe Photoshop|
+|:-------------|:------------------|
+| **Operating System:** |Windows, Linux|
+|:-------------|:------------------|
+| **Other Tools:** |Jupyter Notebook, Visual Studio, Google Collabotory, Notepad++, XAMPP, MS Word, MS Excel, MS Powerpoint.|
+|:-------------|:------------------|
+
+# ---------------------------------------------------------------------------------------------------------
+
+ 
+#Extra Curricular Activities
+
+----
+> ##VOLUNTEERING##
+  * [Bangladesh Development Project](https://www.bddevelop.org/) (January 2021 - Present)
+  Volunteer | Chittagong Representative\
+  Bangladesh Development Project (BDP) is a 501(c)3 non-profit organization created by first-generation Bangladeshi-American youth who sought to embrace their cultural roots, work together to address important challenges and injustices faced by underprivileged people in Bangladesh, and promote a brighter future for all of Bangladesh’s citizens.  BDP seeks to fulfil this mission by carrying out meaningful projects dedicated to five core areas of social impact: education, healthcare, social awareness, disaster relief, and humanitarianism. 
+  
+  * [Covid-19:Fundraising for the distressed by AUST EEE SOCIETY](https://www.facebook.com/events/601790030417933/) (March-2020)
+  Co-ordinator
+  Co-ordinated the Fundraising event organized by AUST EEE SOCIETY where we raised funds for the low wage day workers whose earning stopped due to the lock down condition in the country. This virtual project collaborated with two organizations namely Lighter Youth Foundation & Chattogram Covid-19 Crisis Relief to aid the distressed families with food and necessary goods. 
+  
+  * Engenius'17 (2017)
+  Engenius is an Inter-University technology competition event that takes place in our University annually. The competition includes Project Showcase, Software Showcase, Soccer-Bot contest, Programming contest etc. I was an active volunteer for the day long event in the project showcase department. 
+  
+  * [Youth's Voice Bangladesh](http://www.youthsvoice.info/?fbclid=IwAR060ba0nZqLzNpqaWcxRvg1y5w_p5IobYeM7ykkG5UfGLWxQF6EeMfaFnw (2013-2015)
+  -I was an active volunteer at Project Chana Piyaju’ 2014 event where we had to interact with about 500 underprivileged children during Ramadan and spend theevening having Iftaar with them.\
+
+  -Acted as a team leader of the fundraising group in Fight Against Winter’ 2015 where we collected funds from people around the streets which was then used to buy winter clothes and was provided to the underprivileged poor residing in the Northern Region of Bangladesh.
+ 
+ > ##CONFERENCE, WORKSHOP & COMPETITIONS##
+   * [Google Hashcode 2021 Participant](https://drive.google.com/file/d/1IIp5uXWo-nDWgcEIjmP6hskILw3WRjsZ/view?usp=sharing)
+   * [12th International Conference on Soft Computing & Pattern Recognition (SOCPAR 2020)](https://drive.google.com/file/d/1acGcqGpO03xjX1_RAwlMywRPvSBGGZbi/view)
+   * Student Professional Awareness Conference (SPAC'2018 at North South University)
+   * [Workshop on Full Stack Web Development & Freelancing](https://drive.google.com/file/d/1TjoskIKBHxjxR-k2_a3RGEz4l0RzygeF/view)
+   * [Workshop on PCB Designing](https://drive.google.com/file/d/1NpBHBYCEe7xHXI-T1TzyCoRzJlVOw4yY/view)
+   * [Electrathon 1.0 (Organized by IEEE NSU Branch)](https://drive.google.com/file/d/1ZHJhFFy2J-KFHPF3IBwxlH55H5vSm0sp/view)
+   * [Powerbuzz 2018 (Organized by IEEE NSU Power & Energy Society)](Powerbuzz 2018 (Organized by IEEE NSU Power & Energy Society))
+ > ##SPORTS##
+   * Inter-House Basketball Champion ( Cantonment English School & College Annual Sports 2015 )
+   * Inter-House Volleyball Champion ( Cantonment English School & College Annual Sports 2015 )
+   * Inter-House Basketball Champion ( Cantonment English School & College Annual Sports 2014 )
+   
