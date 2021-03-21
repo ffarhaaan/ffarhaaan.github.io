@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Education
+##Education
 ------
 
 
@@ -45,25 +45,26 @@ Technical Skills
 ----
 
 <center>
-<img src="/images/icons/cv.jpg" alt="Computer Vision">
-<img src="/images/icons/DL.jpg" alt="Deep Learning"> <img src="/images/icons/tf.png" alt="TensorFlow"> <img src="/images/icons/keras.jpg" alt="Keras"> 
-<img src="/images/icons/pytorch.jpg" alt="PyTorch"> <img src="/images/icons/C++.png" alt="C++"> 
-<img src="/images/icons/python.png" alt="Python"> <img src="/images/icons/Cs.png" alt="C#">
-<img src="/images/icons/unity3d.jpg" alt="Unity 3D"> <img src="/images/icons/vs.png" alt="Visual Studio">
-<img src="/images/icons/unity3d.jpg" alt="Unity 3D"> <img src="/images/icons/vs.png" alt="Visual Studio">
+<img src="/images/python.png" alt="python">
+<img src="/images/html.png" alt="html">
+<img src="/images/matlab.png" alt="matlab">
+<img src="/images/ai.jpg" alt="ai">
+<img src="/images/linux.png" alt="linux">
+<img src="/images/vsc.png" alt="vsc">
+
 </center>
 
-| Header1 | Header2 | Header3 |
+| Programming Languages | Markup & Stylesheet | Simulation Tools |
 |:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
+| |C++, Python, Verilog, SQL, Javascript, Matlab.   | HTML, CSS, Latex.   | MATLAB, PSpice, Quartus, Cadence, Proteus.   |
 |=============================|
-| Foot1   | Foot2   | Foot3   |
 
-| Header1 | Header2 | Header3 |
+
+| Design Tools | Operating System | Other Tools |
 |:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
+| AUTOCAD, Adobe Illustrator, Adobe Photoshop   | Windows, Linux   | Jupyter Notebook, Visual Studio, Google Collabotory, Notepad++, XAMPP, MS Word, MS Excel, MS Powerpoint.   |
 |=============================|
-| Foot1   | Foot2   | Foot3   |
+
 
 
 # ---------------------------------------------------------------------------------------------------------
