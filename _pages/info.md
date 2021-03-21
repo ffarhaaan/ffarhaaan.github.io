@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-##Education
+Education
 ------
 
 
@@ -56,13 +56,13 @@ Technical Skills
 
 | Programming Languages | Markup & Stylesheet | Simulation Tools |
 |:--------|:-------:|--------:|
-| |C++, Python, Verilog, SQL, Javascript, Matlab.   | HTML, CSS, Latex.   | MATLAB, PSpice, Quartus, Cadence, Proteus.   |
+| C++, Python, Verilog, SQL, Javascript, Matlab.   | HTML, CSS, Latex.   | MATLAB, PSpice, Quartus, Cadence, Proteus.   |
 |=============================|
 
 
-| Design Tools | Operating System | Other Tools |
+| Design Tools | Other Tools | Operating System  |
 |:--------|:-------:|--------:|
-| AUTOCAD, Adobe Illustrator, Adobe Photoshop   | Windows, Linux   | Jupyter Notebook, Visual Studio, Google Collabotory, Notepad++, XAMPP, MS Word, MS Excel, MS Powerpoint.   |
+| AUTOCAD, Adobe Illustrator, Adobe Photoshop   | Jupyter Notebook, Visual Studio, Google Collabotory, Notepad++, XAMPP, MS Word, MS Excel, MS Powerpoint.   | Windows, Linux    |
 |=============================|
 
 
