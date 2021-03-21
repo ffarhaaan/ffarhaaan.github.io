@@ -26,13 +26,13 @@ Education
     Spring 2016 - Fall 2019.
  
 
-> **Higher Secondary School Certificate (HSC) Examination**
+> **Higher Secondary School Certificate (HSC) Examination**\
   _Cantonment English School & College, Chittagong, Bangladesh._\
     **GPA:** 5.00/5.00\
 	Group: Science\
     May 2013 - April 2015.
 
-> **Secondary School Certificate (HSC) Examination**
+> **Secondary School Certificate (HSC) Examination**\
   _Cantonment English School & College, Chittagong, Bangladesh._\
     **GPA:** 5.00/5.00\
 	Group: Science\
@@ -56,10 +56,6 @@ Technical Skills
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
 |=============================|
 | Foot1   | Foot2   | Foot3   |
 
