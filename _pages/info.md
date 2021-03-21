@@ -42,8 +42,8 @@ Education
 # ---------------------------------------------------------------------------------------------------------
 
 Technical Skills
-
 ----
+
 <center>
 <img src="/images/icons/cv.jpg" alt="Computer Vision">
 <img src="/images/icons/DL.jpg" alt="Deep Learning"> <img src="/images/icons/tf.png" alt="TensorFlow"> <img src="/images/icons/keras.jpg" alt="Keras"> 
@@ -52,6 +52,7 @@ Technical Skills
 <img src="/images/icons/unity3d.jpg" alt="Unity 3D"> <img src="/images/icons/vs.png" alt="Visual Studio">
 <img src="/images/icons/unity3d.jpg" alt="Unity 3D"> <img src="/images/icons/vs.png" alt="Visual Studio">
 </center>
+
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
@@ -76,7 +77,8 @@ Extra Curricular Activities
   * [Covid-19:Fundraising for the distressed by AUST EEE SOCIETY](https://www.facebook.com/events/601790030417933/) (March-2020)\
       Co-ordinator\
      Co-ordinated the Fundraising event organized by AUST EEE SOCIETY where we raised funds for the low wage day workers whose earning stopped due to the lock down condition in the country. This virtual project collaborated with two organizations namely Lighter Youth Foundation & Chattogram Covid-19 Crisis Relief to aid the distressed families with food and necessary goods. 
-  * [Youth's Voice Bangladesh](http://www.youthsvoice.info/?fbclid=IwAR060ba0nZqLzNpqaWcxRvg1y5w_p5IobYeM7ykkG5UfGLWxQF6EeMfaFnw (2013-2015)\
+     Co-ordinated the Fundraising event organized by AUST EEE SOCIETY where we raised funds for the low wage day workers whose earning stopped due to the lock down condition in the country. This virtual project collaborated with two organizations namely Lighter Youth Foundation & Chattogram Covid-19 Crisis Relief to aid the distressed families with food and necessary goods. 
+  * [Youth's Voice Bangladesh](http://www.youthsvoice.info/?fbclid=IwAR060ba0nZqLzNpqaWcxRvg1y5w_p5IobYeM7ykkG5UfGLWxQF6EeMfaFnw)(2013-2015)\
      -I was an active volunteer at Project Chana Piyaju’ 2014 event where we had to interact with about 500 underprivileged children during Ramadan and spend theevening having Iftaar with them.\
      -Acted as a team leader of the fundraising group in Fight Against Winter’ 2015 where we collected funds from people around the streets which was then used to buy winter clothes and was provided to the underprivileged poor residing in the Northern Region of Bangladesh.\
  
