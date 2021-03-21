@@ -6,21 +6,13 @@ author_profile: true
 ---
 
 <center>
-<a href="https://www.aiub.edu">
-  <img src="/images/icons/AIUB_whole_logo.png" alt="AIUB">
+<a href="https://www.aust.edu">
+  <img src="/images/aust.png" alt="AUST">
 </a>
-<a href="http://ipcv.eu">
-  <img src="/images/icons/ipcv_logo.png" alt="IPCV">
+<a href="https://cesc.edu.bd/">
+  <img src="/images/cesc.png" alt="CESC">
 </a>
-<a href="http://ppke.hu/en/">
-  <img src="/images/icons/PPCU.png" alt="PPCU">
-</a>
-<a href="http://www.uam.es/">
-  <img src="/images/icons/uam.png" alt="UAM">
-</a>
-<a href="https://www.u-bordeaux.com/">
-  <img src="/images/icons/ub.png" alt="UB">
-</a>
+
 </center>
 
 Education
@@ -58,45 +50,31 @@ Technical Skills
 <img src="/images/icons/unity3d.jpg" alt="Unity 3D"> <img src="/images/icons/vs.png" alt="Visual Studio">
 <img src="/images/icons/unity3d.jpg" alt="Unity 3D"> <img src="/images/icons/vs.png" alt="Visual Studio">
 </center>
-| **Programming Languages:** |C++, Python, Verilog, SQL, Javascript, Matlab.|
-|:-------------|:------------------|
-| **Markup & Stylesheet:** |HTML, CSS, Latex.|
-|:-------------|:------------------|
-| **Simulation Tools:** |MATLAB, PSpice, Quartus, Cadence, Proteus.|
-|:-------------|:------------------|
-| **Design Tools:** |AUTOCAD, Adobe Illustrator, Adobe Photoshop|
-|:-------------|:------------------|
-| **Operating System:** |Windows, Linux|
-|:-------------|:------------------|
-| **Other Tools:** |Jupyter Notebook, Visual Studio, Google Collabotory, Notepad++, XAMPP, MS Word, MS Excel, MS Powerpoint.|
-|:-------------|:------------------|
+| Header1 | Header2 | Header3 | Header4 |
+|:--------|:-------:|--------:|:--------|
+| cell1   | cell2   | cell3   |     A   |
+|=======================================|
+| Foot1   | Foot2   | Foot3   |  Foot4  |
 
 # ---------------------------------------------------------------------------------------------------------
 
  
 Extra Curricular Activities
 -----
-<center>
-<img src="/images/ec.png" alt="Electrocache"> <img src="/images/hai.png" alt="HAI">
-<img src="/images/2.png" alt="EEG">
-</center>
+
 
 > **VOLUNTEERING**
-  * [Bangladesh Development Project](https://www.bddevelop.org/) (January 2021 - Present)
-  Volunteer | Chittagong Representative\
-  Bangladesh Development Project (BDP) is a 501(c)3 non-profit organization created by first-generation Bangladeshi-American youth who sought to embrace their cultural roots, work together to address important challenges and injustices faced by underprivileged people in Bangladesh, and promote a brighter future for all of Bangladesh’s citizens.  BDP seeks to fulfil this mission by carrying out meaningful projects dedicated to five core areas of social impact: education, healthcare, social awareness, disaster relief, and humanitarianism. 
+  * [Bangladesh Development Project](https://www.bddevelop.org/) (January 2021 - Present)\
+     Volunteer | Chittagong Representative\
+     Bangladesh Development Project (BDP) is a 501(c)3 non-profit organization created by first-generation Bangladeshi-American youth who sought to embrace their cultural roots, work together to address important challenges and injustices faced by underprivileged people in Bangladesh, and promote a brighter future for all of Bangladesh’s citizens.  BDP seeks to fulfil this mission by carrying out meaningful projects dedicated to five core areas of social impact: education, healthcare, social awareness, disaster relief, and humanitarianism. 
   
-  * [Covid-19:Fundraising for the distressed by AUST EEE SOCIETY](https://www.facebook.com/events/601790030417933/) (March-2020)
-  Co-ordinator
-  Co-ordinated the Fundraising event organized by AUST EEE SOCIETY where we raised funds for the low wage day workers whose earning stopped due to the lock down condition in the country. This virtual project collaborated with two organizations namely Lighter Youth Foundation & Chattogram Covid-19 Crisis Relief to aid the distressed families with food and necessary goods. 
-  
-  * Engenius'17 (2017)
-  Engenius is an Inter-University technology competition event that takes place in our University annually. The competition includes Project Showcase, Software Showcase, Soccer-Bot contest, Programming contest etc. I was an active volunteer for the day long event in the project showcase department. 
-  
-  * [Youth's Voice Bangladesh](http://www.youthsvoice.info/?fbclid=IwAR060ba0nZqLzNpqaWcxRvg1y5w_p5IobYeM7ykkG5UfGLWxQF6EeMfaFnw (2013-2015)
-  -I was an active volunteer at Project Chana Piyaju’ 2014 event where we had to interact with about 500 underprivileged children during Ramadan and spend theevening having Iftaar with them.\
-
-  -Acted as a team leader of the fundraising group in Fight Against Winter’ 2015 where we collected funds from people around the streets which was then used to buy winter clothes and was provided to the underprivileged poor residing in the Northern Region of Bangladesh.
+  * [Covid-19:Fundraising for the distressed by AUST EEE SOCIETY](https://www.facebook.com/events/601790030417933/) (March-2020)\
+      Co-ordinator\
+     Co-ordinated the Fundraising event organized by AUST EEE SOCIETY where we raised funds for the low wage day workers whose earning stopped due to the lock down condition in the country. This virtual project collaborated with two organizations namely Lighter Youth Foundation & Chattogram Covid-19 Crisis Relief to aid the distressed families with food and necessary goods. 
+   
+  * [Youth's Voice Bangladesh](http://www.youthsvoice.info/?fbclid=IwAR060ba0nZqLzNpqaWcxRvg1y5w_p5IobYeM7ykkG5UfGLWxQF6EeMfaFnw (2013-2015)\
+     -I was an active volunteer at Project Chana Piyaju’ 2014 event where we had to interact with about 500 underprivileged children during Ramadan and spend theevening having Iftaar with them.\
+     -Acted as a team leader of the fundraising group in Fight Against Winter’ 2015 where we collected funds from people around the streets which was then used to buy winter clothes and was provided to the underprivileged poor residing in the Northern Region of Bangladesh.\
  
  > **CONFERENCE, WORKSHOP & COMPETITIONS**
    * [Google Hashcode 2021 Participant](https://drive.google.com/file/d/1IIp5uXWo-nDWgcEIjmP6hskILw3WRjsZ/view?usp=sharing)
