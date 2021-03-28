@@ -40,7 +40,7 @@ Other Projects
   * [Automatic Login System.](https://www.google.com/url?q=https%3A%2F%2Fqm93jyljtzw4xdvldbi2cg-on.drv.tw%2Fiums%2520login%2F&sa=D&sntz=1&usg=AFQjCNGgGSAZ7ryJOttWEhVKGA8gFWX3iA)
   * [Software Downloader using Python Webscraping.](https://qm93jyljtzw4xdvldbi2cg-on.drv.tw/Software%20Downloader(Python%20Automation%20Project)/)
   * [Translator](https://github.com/ffarhaaan/Python-Projects/blob/Translator/translator.py)
-  * [GPA Calculator for AUST](https://qm93jyljtzw4xdvldbi2cg-on.drv.tw/gpa%20calculator/)
+  * [GPA Calculator for AUST](https://qm93jyljtzw4xdvldbi2cg-on.drv.tw/gpa%20calculator/) \
    [See More](https://github.com/ffarhaaan/Python-Projects)
    
 > **Proteus**   
