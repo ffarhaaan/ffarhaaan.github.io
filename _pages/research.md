@@ -30,6 +30,9 @@ Research Experience
 
 </center>
 
+<br>
+
+
 | **Undergraduate Thesis** |  **Supervisor**  | **Institution** |
 |:--------|:-------:|--------:|
 |  [Study of pattern recognition system with Hidden Markov Model through the development of a raspberry pi based speaker recogniser.](https://www.researchgate.net/publication/348150123_Study_of_Pattern_recognition_system_with_Hidden_Markov_Model_through_the_development_of_a_raspberry_pi_based_speaker_recogniser)   | **Md.Jakaria Rahimi**, Assistant Professor,Department of Electrical & Electronic Engineering.   | Ahsanullah University of Science & Technology.  |
