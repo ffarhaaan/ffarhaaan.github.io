@@ -71,7 +71,7 @@ Technical Skills
 
 Affiliations
 ------
-
+<br>
 
 <center>
 <img src="/images/aes.jpg" alt="AUST EEE SOCIETY">
@@ -82,19 +82,19 @@ Affiliations
 </center>
 
 > **Bangladesh Developement Project**          
-   _Volunteer | Chittagong Division Representative_(January 2021 - Present)\
+   _Volunteer | Chittagong Division Representative_ (January 2021 - Present)
 
-> **AUST EEE SOCIETY**\
-  _Vice President_(February 2020 - November 2020)\
+> **AUST EEE SOCIETY**
+  _Vice President_ (February 2020 - November 2020)
     
-> **AUST Innovation & Design Club**\
-  _General Member_( April  2017 - November 2019)\
+> **AUST Innovation & Design Club**
+  _General Member_ (April  2017 - November 2019)
 
-> **IEEE**\
-  _General Member_(January 2018 - January 2019)\    
+> **IEEE**
+  _General Member_ (January 2018 - January 2019)   
 
-> **IEEE WIE Section**\
-  _General Member_(January 2018 - January 2019)\ 
+> **IEEE WIE Section**
+  _General Member_ (January 2018 - January 2019)
 
 
 # ---------------------------------------------------------------------------------------------------------

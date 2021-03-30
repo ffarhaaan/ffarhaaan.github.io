@@ -3,15 +3,12 @@ main:
   - title: "About."
     url: /info/
 
-  - title: "Research"
+  - title: "Research."
     url: /research/    
 
-  - title: "Projects"
+  - title: "Projects."
     url: /projects/    
-    
-  - title: "Affiliations"
-    url: /affiliations/
-        
+       
   - title: "CV"
     url: https://drive.google.com/file/d/1gOdy1guhSZsrCAYMycvSPvXfv8LI5fqS/view
     
