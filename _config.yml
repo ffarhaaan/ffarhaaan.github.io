@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Faisal Farhan"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Faisal Farhan"
 description              : &description "personal description"
 url                      : https://ffarhaaan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ffarhaaan"
+  github           : "ffarhaaan"
   google_plus      :
   keybase          :
   instagram        :
