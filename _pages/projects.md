@@ -33,6 +33,7 @@ Other Projects
 
 
 > **Machine Learning & Data Analysis**
+  * [XGBoost for Diabetes Prediction](https://github.com/ffarhaaan/Machine-Learning/blob/main/XGBoost_for_Diabetes_Prediction.ipynb)
   * [Machine Learning model evaluation on criminal dataset of Bangladesh.](https://github.com/ffarhaaan/Machine-Learning/blob/main/ML_Model_Crime_Dataset_Bangladesh.ipynb)
   * [Covid-19 Data Analysis of Asian Countries](https://github.com/ffarhaaan/covid19-data-analysis-of-Asian-Countries)
 
