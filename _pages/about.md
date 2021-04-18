@@ -38,6 +38,7 @@ Featured
 <img src="/images/ec.png" alt="Electrocache"> <img src="/images/hai.png" alt="HAI">
 <img src="/images/2.png" alt="EEG">
 </center>
+  * **April 2021:** _Our paper titled ["A Performance Evaluation of Machine Learning Models on Human Activity Identification(HAI)"](https://link.springer.com/chapter/10.1007%2F978-3-030-73689-7_25) has been published on [Springer](https://link.springer.com/).
   * **January 2021:** _Successfully presented our paper titled "A Performance Evaluation of Machine Learning Models on Human Activity Identification(HAI)" on the 12th International Conference on Soft Computing and Pattern Recognition. It was an amazing experience._[Slides](https://drive.google.com/file/d/1r0mWwCN4szBYXUOOIbRPoyX1uUaBbBT6/view)
   * **January 2021:** _Launched [Electrocache](https://sites.google.com/view/electrocache/home?authuser=0)-A database resource for students of Electrical & Electronic Engineering department._
   *  **December 2020:** _Our paper, ["Electroencephalogram (EEG) brainwave signal-based emotion recognition using extreme gradient boosting algorithm"](https://www.google.com/url?q=http%3A%2F%2Fimperialopen.com%2Findex.php%2FAOE%2Farticle%2Fview%2F44&sa=D&sntz=1&usg=AFQjCNG5a-_xxGQGGqC7vOfHhqCaO-Hfsw) has been published in Annals of Engineering._ 

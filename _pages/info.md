@@ -82,7 +82,7 @@ Affiliations
 </center>
 
 > **Bangladesh Developement Project**          
-   _Volunteer | Chittagong Division Representative_ (January 2021 - Present)
+   _Chittagong Division Representative_ (January 2021 - Present)
 
 > **AUST EEE SOCIETY**
   _Vice President_ (February 2020 - November 2020)
@@ -106,11 +106,10 @@ Extra Curricular Activities
 
 > **VOLUNTEERING**
   * [Bangladesh Development Project](https://www.bddevelop.org/) (January 2021 - Present)\
-     Volunteer | Chittagong Representative\
+     **Chittagong Division Representative**\
      Bangladesh Development Project (BDP) is a 501(c)3 non-profit organization created by first-generation Bangladeshi-American youth who sought to embrace their cultural roots, work together to address important challenges and injustices faced by underprivileged people in Bangladesh, and promote a brighter future for all of Bangladesh’s citizens.  BDP seeks to fulfil this mission by carrying out meaningful projects dedicated to five core areas of social impact: education, healthcare, social awareness, disaster relief, and humanitarianism. 
   * [Covid-19:Fundraising for the distressed by AUST EEE SOCIETY](https://www.facebook.com/events/601790030417933/) (March-2020)\
-      Co-ordinator\
-     Co-ordinated the Fundraising event organized by AUST EEE SOCIETY where we raised funds for the low wage day workers whose earning stopped due to the lock down condition in the country. This virtual project collaborated with two organizations namely Lighter Youth Foundation & Chattogram Covid-19 Crisis Relief to aid the distressed families with food and necessary goods. 
+     **Co-ordinator**\
      Co-ordinated the Fundraising event organized by AUST EEE SOCIETY where we raised funds for the low wage day workers whose earning stopped due to the lock down condition in the country. This virtual project collaborated with two organizations namely Lighter Youth Foundation & Chattogram Covid-19 Crisis Relief to aid the distressed families with food and necessary goods. 
   * [Youth's Voice Bangladesh](http://www.youthsvoice.info/?fbclid=IwAR060ba0nZqLzNpqaWcxRvg1y5w_p5IobYeM7ykkG5UfGLWxQF6EeMfaFnw)(2013-2015)\
      -I was an active volunteer at Project Chana Piyaju’ 2014 event where we had to interact with about 500 underprivileged children during Ramadan and spend theevening having Iftaar with them.\

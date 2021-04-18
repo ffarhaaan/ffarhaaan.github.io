@@ -52,7 +52,7 @@ Publications
 <img src="/images/journal.png" alt="Journal">
 </center>
 
-> T. H. Rafi, **Faisal Farhan** (2020). "A Performance Evaluation of Machine learning Models on Human Activity Identification (HAI) ", [12th International Conference on Soft Computing and Pattern Recognition (SoCPaR 2020).](http://www.google.com/url?q=http%3A%2F%2Fwww.mirlabs.org%2Fsocpar20%2F&sa=D&sntz=1&usg=AFQjCNEp-drr89QXMrT5x1oE5BIpqFWFsA) [(Video).](https://www.youtube.com/watch?v=kzE6RHMSn6Y&t=102s) [(Slides).](https://drive.google.com/file/d/1r0mWwCN4szBYXUOOIbRPoyX1uUaBbBT6/view)          
+> T. H. Rafi, **Faisal Farhan** (2020). ["A Performance Evaluation of Machine learning Models on Human Activity Identification (HAI) "](https://link.springer.com/chapter/10.1007%2F978-3-030-73689-7_25), [12th International Conference on Soft Computing and Pattern Recognition (SoCPaR 2020).](http://www.google.com/url?q=http%3A%2F%2Fwww.mirlabs.org%2Fsocpar20%2F&sa=D&sntz=1&usg=AFQjCNEp-drr89QXMrT5x1oE5BIpqFWFsA) [(Video).](https://www.youtube.com/watch?v=kzE6RHMSn6Y&t=102s) [(Slides).](https://drive.google.com/file/d/1r0mWwCN4szBYXUOOIbRPoyX1uUaBbBT6/view)          
   
 
 > T. H. Rafi, **F. Farhan**, Z. Hoque, F. Quayyum. (2020). [Electroencephalogram (EEG) brainwave signal-based emotion recognition using extreme gradient boosting algorithm. Annals of Engineering, 1(2), 1-19. ](http://www.google.com/url?q=http%3A%2F%2Fimperialopen.com%2Findex.php%2FAOE%2Farticle%2Fview%2F44&sa=D&sntz=1&usg=AFQjCNG5a-_xxGQGGqC7vOfHhqCaO-Hfsw)
